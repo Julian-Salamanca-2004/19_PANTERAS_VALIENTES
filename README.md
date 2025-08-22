@@ -7,6 +7,5 @@
 
 - **Rol de la industria:** Gestor del repositorio
 - **Ubicación:** San José del Guaviare, Colombia
-- **Perfil breve:** Estudiante de Ingeniería Multimedia. Como gestor del repositorio me encargo de crear y administrar el espacio en GitHub, agregar colaboradores, coordinar la integración de ramas y asegurar la creación del tag final para la entrega.
+- **Perfil breve:** Estudiante de Ingeniería Multimedia. Me apasiona el mundo del anime y la lectura, especialmente los libros de misterio y fantasía. Soy alguien tímido al inicio, pero con el tiempo me gusta conversar y compartir de forma alegre. Sueño con terminar mi carrera y fundar una agencia de diseño gráfico para ayudar a otros creativos a crecer y encontrar su lugar en el mercado.
 
-_Carpeta personal:_ `./JULIAN_SALAMANCA/` contiene `ramen.jpg` 
