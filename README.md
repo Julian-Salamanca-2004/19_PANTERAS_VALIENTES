@@ -3,7 +3,7 @@
 ## Presentaciones
 
 ### Julián David Salamanca Marroquín
-![Foto](JULIAN_SALAMANCA/foto-perfil.jpg)
+![Foto](JULIAN_SALAMANCA/FOTO_DE_PERFIL.jpg)
 
 - **Rol de la industria:** Gestor del repositorio
 - **Ubicación:** San José del Guaviare, Colombia
