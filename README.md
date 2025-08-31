@@ -16,3 +16,12 @@
 - **Ubicación:** Restrepo, Meta.
 - **Perfil breve:** Soy estudiante de Ingeniería Multimedia de 7mo semestrepo. Elegí esta carrera porque siempre he sido una apasionada de los videojuegos, la animación y la creación de contenidos interactivos. Estoy en constante aprendizaje para fortalecer mis habilidades en programación, arte digital y gestión de proyectos dentro de la industria creativa.
 
+<<<<<<< Updated upstream
+=======
+### Laura Camila Ruiz Medina
+![Foto](LAURA_RUIZ/FOTO_DE_PERFIL.jpeg.jpeg)
+
+- **Rol de la industria:** QA Tester
+- **Ubicación:** Tauramena, Casanare.
+- **Perfil breve:** Actualmente estudio Ingeniería Multimedia y curso el séptimo semestre. Me gustan los animales, leer libros de superación personal y siempre busco aprender y crecer tanto a nivel personal como profesional.
+>>>>>>> Stashed changes
