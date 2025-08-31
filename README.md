@@ -15,3 +15,4 @@
 - **Rol de la industria:** Diseñador UX/UI.
 - **Ubicación:** Restrepo, Meta.
 - **Perfil breve:** Soy estudiante de Ingeniería Multimedia de 7mo semestrepo. Elegí esta carrera porque siempre he sido una apasionada de los videojuegos, la animación y la creación de contenidos interactivos. Estoy en constante aprendizaje para fortalecer mis habilidades en programación, arte digital y gestión de proyectos dentro de la industria creativa.
+
